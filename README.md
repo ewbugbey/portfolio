@@ -11,7 +11,7 @@ B.S. in Business Administration | Georgia Institute of Technology (_May 2019_)
 ## Work Experience
 **Co-Founder & Tech/Analytics Lead, BILLY N0 MATES LLC | Professional DJ Studio (_February 2024 - Present)**
 - Forecasted & analyzed sales trends in Excel to inform marketing strategy, driving 300% sales growth in six months
-- Designed marketing campaigns & maintained a [Wix-based] (https://www.billyn0mates.com/) website to boost lead generation, increasing MQLs by 4x
+- Designed marketing campaigns & maintained a [Wix-based](https://www.billyn0mates.com/) website to boost lead generation, increasing MQLs by 4x
 - Led capital budgeting for equipment investments, balancing cost with anticipated customer retention improvements
 
 
