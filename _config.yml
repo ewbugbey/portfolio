@@ -1,4 +1,6 @@
 # Setup
-title: Elizabeth Bugbey
-tagline: Career Product Manager turned Data Scientist. Expert at bridging the gap between technology/data and business impact.
+title: Elizabeth Bugbey's Portfolio
+description: Career Product Manager turned Data Scientist. Expert at bridging the gap between technology/data and business impact.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
