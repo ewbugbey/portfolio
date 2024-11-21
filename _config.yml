@@ -1,21 +1,4 @@
 # Setup
-title:        Elizabeth Bugbey
-tagline:      Career Product Manager turned Data Scientist. Expert at bridging the gap between technology/data and business impact.
-baseurl:      ""
-paginate:     2
-locale:       "en"
-
-# About/contact
-author:
-  name:       Elizabeth Bugbey
-  url:        http://linkedin.com/in/ewbugbey/ 
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
-
-
+title: Elizabeth Bugbey
+tagline: Career Product Manager turned Data Scientist. Expert at bridging the gap between technology/data and business impact.
 theme: jekyll-theme-cayman
